@@ -5,9 +5,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `PICKSY.`,
-    description: `Kick off your next jamstack ecommerce web app with this PICKSY.`,
-    author: `@redq`,
+    title: `Brazen Artists.`,
+    description: `Artist Direct Products`,
+    author: `@johnrohan87`,
   },
   plugins: [
     `gatsby-plugin-typescript`,

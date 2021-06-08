@@ -79,3 +79,4 @@ __generated__
 .env.development
 .env.example
 .env.production
+.vercel
